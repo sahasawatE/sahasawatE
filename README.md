@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahasawatE
-- 👀 I’m interested in JavaScript, TypeScript, Swift, and more...
-- 🌱 I’m currently learning TypeScript and SwiftUI
+- 👀 I’m interested in JavaScript, TypeScript, and more...
+- 🌱 I’m currently learning TypeScript, and creating my own Lib
 - 📫 hoklok3@gmail.com
 
 <!---
